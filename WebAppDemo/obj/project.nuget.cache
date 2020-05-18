@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LUoa+2q11PEFZOgMoRBIUSPW+GjczZER7tgru1Pjbzg7J6WVxVRz5D0hM1TuXsM7C6iki6OruduPOErPe35oqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keotoi\\OneDrive - Microsoft\\お客様\\FY20 Q4オンラインセミナー\\WebAppDemo\\WebAppDemo\\WebAppDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keotoi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\keotoi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
