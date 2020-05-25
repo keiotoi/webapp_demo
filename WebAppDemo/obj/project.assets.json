@@ -8,27 +8,20 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\keotoi\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\keiot\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keotoi\\OneDrive - Microsoft\\お客様\\FY20 Q4オンラインセミナー\\WebAppDemo\\WebAppDemo\\WebAppDemo.csproj",
+      "projectUniqueName": "C:\\Users\\keiot\\OneDrive - Microsoft\\お客様\\FY20 Q4オンラインセミナー\\WebAppDemo\\WebAppDemo\\WebAppDemo.csproj",
       "projectName": "WebAppDemo",
-      "projectPath": "C:\\Users\\keotoi\\OneDrive - Microsoft\\お客様\\FY20 Q4オンラインセミナー\\WebAppDemo\\WebAppDemo\\WebAppDemo.csproj",
-      "packagesPath": "C:\\Users\\keotoi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keotoi\\OneDrive - Microsoft\\お客様\\FY20 Q4オンラインセミナー\\WebAppDemo\\WebAppDemo\\obj\\",
+      "projectPath": "C:\\Users\\keiot\\OneDrive - Microsoft\\お客様\\FY20 Q4オンラインセミナー\\WebAppDemo\\WebAppDemo\\WebAppDemo.csproj",
+      "packagesPath": "C:\\Users\\keiot\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\keiot\\OneDrive - Microsoft\\お客様\\FY20 Q4オンラインセミナー\\WebAppDemo\\WebAppDemo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\keotoi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\keiot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -68,6 +61,14 @@
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
             "version": "[3.0.3, 3.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
           }
         ],
         "frameworkReferences": {
@@ -78,7 +79,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
