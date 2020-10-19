@@ -2,8 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\keiot\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\keiot\\.nuget\\packages",
-      "C:\\Microsoft\\Xamarin\\NuGet"
+      "C:\\Users\\keiot\\.nuget\\packages"
     ]
   }
 }
